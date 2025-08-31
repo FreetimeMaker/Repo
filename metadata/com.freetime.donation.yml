@@ -1,5 +1,5 @@
 Categories:
-  - Finance
+  - Money
 License: Apache-2.0
 AuthorEmail: jamieachatz@gmail.com
 SourceCode: https://github.com/FreetimeMaker/Donation
@@ -20,5 +20,3 @@ Builds:
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersionName: 1.0.0
-CurrentVersionCode: 1

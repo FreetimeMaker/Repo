@@ -1,0 +1,1 @@
+{"repo": {"timestamp": 1756658495000, "version": 20002, "name": "Freetime Maker Repo", "icon": "myicon.png", "address": "https://freetimemaker.github.io/fdroid/repo", "description": "For F-Droid and own App Store.", "mirrors": ["https://raw.githubusercontent.com/freetimemaker/repo/master/fdroid/repo"]}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
