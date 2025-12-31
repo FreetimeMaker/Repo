@@ -52,7 +52,7 @@ sdk_path: $ANDROID_HOME
 
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
-repo_url: https:/freetimemaker.github.io/Repo/fdroid/repo
+repo_url: https://freetimemaker.github.io/Repo/fdroid/repo
 repo_name: Freetime Maker Repository
 repo_description: >-
    This is the Official Repository of Freetime Maker
@@ -113,7 +113,7 @@ repo_icon: icon.jpeg
 # The key (from the keystore defined below) to be used for signing the
 # repository itself. This is the same name you would give to keytool or
 # jarsigner using -alias. (Not needed in an unsigned repository).
-# repo_keyalias: localhost
+repo_keyalias: localhost
 
 
 
