@@ -1,0 +1,291 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "GeoWeather.apk": {
+    "hash": "c1f84523350ae9c94eeaa808816267db9edefceb21035bfcc57d51ecfdf92236",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.freetime.geoweather1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.freetime.geoweather1",
+    "versionCode": 5,
+    "name": "GeoWeather",
+    "versionName": "1.0.4",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "sig": "affbe859dac99bd65c457093f896110d",
+    "signer": "e7370a3e2d3e5baa7124bea7fff3e2955e80c68f5c07ef0c8b9137e76e86e283",
+    "size": 6299716,
+    "apkName": "GeoWeather.apk",
+    "added": 1767196881.270852
+  },
+  "KPDHJ.apk": {
+    "hash": "c7af9a9b02f7d216cdc175964822b5e2bb42e7990e3d6a391e0d12c3ef6a2ae9",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        null
+      ],
+      [
+        "com.freetime.kpdhj.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.freetime.kpdhj",
+    "versionCode": 13,
+    "name": "K-Pop Demon Hunters (Java)",
+    "versionName": "1.1.2",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "affbe859dac99bd65c457093f896110d",
+    "signer": "e7370a3e2d3e5baa7124bea7fff3e2955e80c68f5c07ef0c8b9137e76e86e283",
+    "size": 8566447,
+    "apkName": "KPDHJ.apk",
+    "added": 1767196882.153492
+  },
+  "Radio-Player-Flutter.apk": {
+    "hash": "3e7e35a52f552d97983a510a0b4687deb10bc29c3dfa4f4fdb952cb8bec7dc99",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.freetime.rpf.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.freetime.rpf",
+    "versionCode": 3,
+    "name": "Radio Player (Flutter)",
+    "versionName": "1.0.2",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "3a2f7bd128d394053feaac87191153b1",
+    "signer": "bfd1beacbcbea1cf06d500a6836834535215b98692db62ccdb5d4fb36ed2feb7",
+    "size": 46278832,
+    "apkName": "Radio-Player-Flutter.apk",
+    "added": 1767196883.76885
+  },
+  "Radio-Player-Java.apk": {
+    "hash": "c474e479b9890732c918a490d9ceb7bae3363d2ae8fba191eb24bbb87a141191",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.freetime.rpj.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.freetime.rpj",
+    "versionCode": 4,
+    "name": "Radio Player (Java)",
+    "versionName": "1.0.3",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 36,
+    "sig": "affbe859dac99bd65c457093f896110d",
+    "signer": "e7370a3e2d3e5baa7124bea7fff3e2955e80c68f5c07ef0c8b9137e76e86e283",
+    "size": 8450092,
+    "apkName": "Radio-Player-Java.apk",
+    "added": 1767196884.732738
+  },
+  "Radio-Player.apk": {
+    "hash": "af89fa18dbc5d67d1e297f8c229738411aca4bff339e1b2fc23642794b741e53",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.freetime.radio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.freetime.radio",
+    "versionCode": 4,
+    "name": "Radio Player (JetCom)",
+    "versionName": "1.0.3",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "aarch64-MacOSX-clang/jni",
+      "aarch64-Windows10-clang/jni",
+      "amd64-Windows10-clang/jni",
+      "arm64-v8a",
+      "armeabi-v7a",
+      "ppc64-AIX-clang/jni",
+      "ppc64-OS400-clang/jni",
+      "x86",
+      "x86_64",
+      "x86_64-MacOSX-clang/jni"
+    ],
+    "sig": "affbe859dac99bd65c457093f896110d",
+    "signer": "e7370a3e2d3e5baa7124bea7fff3e2955e80c68f5c07ef0c8b9137e76e86e283",
+    "size": 12838204,
+    "apkName": "Radio-Player.apk",
+    "added": 1767196885.503586
+  },
+  "SuperSMP-Companion.apk": {
+    "hash": "22fdabea479f3690b946abfd9aa8577e9d73e0d21ac8d005fdad0d707d2468a3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.freetime.ssmpc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.freetime.ssmpc",
+    "versionCode": 5,
+    "name": "SuperSMP Companion (Java)",
+    "versionName": "1.0.4",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "sig": "affbe859dac99bd65c457093f896110d",
+    "signer": "e7370a3e2d3e5baa7124bea7fff3e2955e80c68f5c07ef0c8b9137e76e86e283",
+    "size": 6068708,
+    "apkName": "SuperSMP-Companion.apk",
+    "added": 1767196886.522082
+  }
+}
